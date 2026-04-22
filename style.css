@@ -1,0 +1,17 @@
+div {
+    background-color: #1f2937;
+}
+
+h1,.header {
+    display:flex;
+    font-size: 24px;
+    color: #f9faf8;
+    align-items:flex-start;
+    justify-content: space-between;
+}
+
+.header-links {
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+}
